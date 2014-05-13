@@ -3,4 +3,4 @@ A fork of [2048](http://gabrielecirulli.github.io/2048/), that uses Romanian Num
 
 Inspired  by [LHC](http://milrivel.github.io/LHC/).
 
-Play it here: (http://mohsenix.github.io/mmxlviii/)
+Play it here: http://mohsenix.github.io/MMXLVIII/
