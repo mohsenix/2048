@@ -1,5 +1,5 @@
 # MMXLVIII
-A fork of [2048](http://gabrielecirulli.github.io/2048/), that uses Romanian Numerals.
+A fork of [2048](http://gabrielecirulli.github.io/2048/), that uses Roman Numerals.
 
 Inspired  by [LHC](http://milrivel.github.io/LHC/).
 
