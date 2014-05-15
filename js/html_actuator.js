@@ -72,7 +72,7 @@ HTMLActuator.prototype.addTile = function (tile) {
   outputtext[7] = "CXXVIII";
   outputtext[8] = "CCLVI";
   outputtext[9] = "DXII";
-  outputtext[10] = "MMXXIV";
+  outputtext[10] = "MXXIV";
   outputtext[11] = "MMXLVIII";
 
 
